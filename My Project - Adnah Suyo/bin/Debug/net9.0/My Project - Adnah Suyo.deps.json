@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "My Project - Adnah Suyo/1.0.0": {
+        "runtime": {
+          "My Project - Adnah Suyo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "My Project - Adnah Suyo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

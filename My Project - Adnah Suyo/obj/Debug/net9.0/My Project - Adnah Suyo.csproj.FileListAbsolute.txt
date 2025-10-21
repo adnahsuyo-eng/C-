@@ -1,0 +1,14 @@
+C:\Users\Adnah Jane Suyo\OneDrive\Pictures\Desktop\C#\My Project - Adnah Suyo\bin\Debug\net9.0\My Project - Adnah Suyo.exe
+C:\Users\Adnah Jane Suyo\OneDrive\Pictures\Desktop\C#\My Project - Adnah Suyo\bin\Debug\net9.0\My Project - Adnah Suyo.deps.json
+C:\Users\Adnah Jane Suyo\OneDrive\Pictures\Desktop\C#\My Project - Adnah Suyo\bin\Debug\net9.0\My Project - Adnah Suyo.runtimeconfig.json
+C:\Users\Adnah Jane Suyo\OneDrive\Pictures\Desktop\C#\My Project - Adnah Suyo\bin\Debug\net9.0\My Project - Adnah Suyo.dll
+C:\Users\Adnah Jane Suyo\OneDrive\Pictures\Desktop\C#\My Project - Adnah Suyo\bin\Debug\net9.0\My Project - Adnah Suyo.pdb
+C:\Users\Adnah Jane Suyo\OneDrive\Pictures\Desktop\C#\My Project - Adnah Suyo\obj\Debug\net9.0\My Project - Adnah Suyo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adnah Jane Suyo\OneDrive\Pictures\Desktop\C#\My Project - Adnah Suyo\obj\Debug\net9.0\My Project - Adnah Suyo.AssemblyInfoInputs.cache
+C:\Users\Adnah Jane Suyo\OneDrive\Pictures\Desktop\C#\My Project - Adnah Suyo\obj\Debug\net9.0\My Project - Adnah Suyo.AssemblyInfo.cs
+C:\Users\Adnah Jane Suyo\OneDrive\Pictures\Desktop\C#\My Project - Adnah Suyo\obj\Debug\net9.0\My Project - Adnah Suyo.csproj.CoreCompileInputs.cache
+C:\Users\Adnah Jane Suyo\OneDrive\Pictures\Desktop\C#\My Project - Adnah Suyo\obj\Debug\net9.0\My Project - Adnah Suyo.dll
+C:\Users\Adnah Jane Suyo\OneDrive\Pictures\Desktop\C#\My Project - Adnah Suyo\obj\Debug\net9.0\refint\My Project - Adnah Suyo.dll
+C:\Users\Adnah Jane Suyo\OneDrive\Pictures\Desktop\C#\My Project - Adnah Suyo\obj\Debug\net9.0\My Project - Adnah Suyo.pdb
+C:\Users\Adnah Jane Suyo\OneDrive\Pictures\Desktop\C#\My Project - Adnah Suyo\obj\Debug\net9.0\My Project - Adnah Suyo.genruntimeconfig.cache
+C:\Users\Adnah Jane Suyo\OneDrive\Pictures\Desktop\C#\My Project - Adnah Suyo\obj\Debug\net9.0\ref\My Project - Adnah Suyo.dll
