@@ -1,0 +1,14 @@
+C:\Users\Adnah Jane Suyo\OneDrive\Pictures\Desktop\C#\Kamusta ka mundo\bin\Debug\net9.0\Kamusta ka mundo.exe
+C:\Users\Adnah Jane Suyo\OneDrive\Pictures\Desktop\C#\Kamusta ka mundo\bin\Debug\net9.0\Kamusta ka mundo.deps.json
+C:\Users\Adnah Jane Suyo\OneDrive\Pictures\Desktop\C#\Kamusta ka mundo\bin\Debug\net9.0\Kamusta ka mundo.runtimeconfig.json
+C:\Users\Adnah Jane Suyo\OneDrive\Pictures\Desktop\C#\Kamusta ka mundo\bin\Debug\net9.0\Kamusta ka mundo.dll
+C:\Users\Adnah Jane Suyo\OneDrive\Pictures\Desktop\C#\Kamusta ka mundo\bin\Debug\net9.0\Kamusta ka mundo.pdb
+C:\Users\Adnah Jane Suyo\OneDrive\Pictures\Desktop\C#\Kamusta ka mundo\obj\Debug\net9.0\Kamusta ka mundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adnah Jane Suyo\OneDrive\Pictures\Desktop\C#\Kamusta ka mundo\obj\Debug\net9.0\Kamusta ka mundo.AssemblyInfoInputs.cache
+C:\Users\Adnah Jane Suyo\OneDrive\Pictures\Desktop\C#\Kamusta ka mundo\obj\Debug\net9.0\Kamusta ka mundo.AssemblyInfo.cs
+C:\Users\Adnah Jane Suyo\OneDrive\Pictures\Desktop\C#\Kamusta ka mundo\obj\Debug\net9.0\Kamusta ka mundo.csproj.CoreCompileInputs.cache
+C:\Users\Adnah Jane Suyo\OneDrive\Pictures\Desktop\C#\Kamusta ka mundo\obj\Debug\net9.0\Kamusta ka mundo.dll
+C:\Users\Adnah Jane Suyo\OneDrive\Pictures\Desktop\C#\Kamusta ka mundo\obj\Debug\net9.0\refint\Kamusta ka mundo.dll
+C:\Users\Adnah Jane Suyo\OneDrive\Pictures\Desktop\C#\Kamusta ka mundo\obj\Debug\net9.0\Kamusta ka mundo.pdb
+C:\Users\Adnah Jane Suyo\OneDrive\Pictures\Desktop\C#\Kamusta ka mundo\obj\Debug\net9.0\Kamusta ka mundo.genruntimeconfig.cache
+C:\Users\Adnah Jane Suyo\OneDrive\Pictures\Desktop\C#\Kamusta ka mundo\obj\Debug\net9.0\ref\Kamusta ka mundo.dll
