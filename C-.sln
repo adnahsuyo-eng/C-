@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task2", "task2.csproj", "{30641250-635F-709E-5D2A-8BE3CFADFB63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "My Project - Adnah Suyo", "My Project - Adnah Suyo\My Project - Adnah Suyo.csproj", "{DA8529A3-C9A9-2B16-8987-CF00A9D4B079}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30641250-635F-709E-5D2A-8BE3CFADFB63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30641250-635F-709E-5D2A-8BE3CFADFB63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30641250-635F-709E-5D2A-8BE3CFADFB63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30641250-635F-709E-5D2A-8BE3CFADFB63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA8529A3-C9A9-2B16-8987-CF00A9D4B079}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA8529A3-C9A9-2B16-8987-CF00A9D4B079}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA8529A3-C9A9-2B16-8987-CF00A9D4B079}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA8529A3-C9A9-2B16-8987-CF00A9D4B079}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {328B376C-580F-492B-8ECB-306001978A9B}
+	EndGlobalSection
+EndGlobal
