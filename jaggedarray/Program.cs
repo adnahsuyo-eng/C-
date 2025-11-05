@@ -1,4 +1,4 @@
-namespace ConsoleApp1;
+﻿namespace ConsoleApp1;
 public class JaggedArrayLesson
 {
     static void Main(string[] args)
