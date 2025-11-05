@@ -1,3 +1,10 @@
 ﻿//Kamusta Mundo
 using System;
-Console.WriteLine("Kamusta Mundo!");
+
+partial class Program
+{
+	static void Main(string[] args)
+	{
+		Console.WriteLine("Kamusta Mundo!");
+	}
+}

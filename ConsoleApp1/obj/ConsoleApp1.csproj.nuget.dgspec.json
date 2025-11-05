@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Adnah Jane Suyo\\OneDrive\\Documents\\GitHub\\C-\\jaggedarray\\jaggedarray.csproj": {}
+    "C:\\Users\\Adnah Jane Suyo\\OneDrive\\Documents\\GitHub\\C-\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Adnah Jane Suyo\\OneDrive\\Documents\\GitHub\\C-\\jaggedarray\\jaggedarray.csproj": {
+    "C:\\Users\\Adnah Jane Suyo\\OneDrive\\Documents\\GitHub\\C-\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Adnah Jane Suyo\\OneDrive\\Documents\\GitHub\\C-\\jaggedarray\\jaggedarray.csproj",
-        "projectName": "jaggedarray",
-        "projectPath": "C:\\Users\\Adnah Jane Suyo\\OneDrive\\Documents\\GitHub\\C-\\jaggedarray\\jaggedarray.csproj",
+        "projectUniqueName": "C:\\Users\\Adnah Jane Suyo\\OneDrive\\Documents\\GitHub\\C-\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectName": "ConsoleApp1",
+        "projectPath": "C:\\Users\\Adnah Jane Suyo\\OneDrive\\Documents\\GitHub\\C-\\ConsoleApp1\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\Adnah Jane Suyo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Adnah Jane Suyo\\OneDrive\\Documents\\GitHub\\C-\\jaggedarray\\obj\\",
+        "outputPath": "C:\\Users\\Adnah Jane Suyo\\OneDrive\\Documents\\GitHub\\C-\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Adnah Jane Suyo\\AppData\\Roaming\\NuGet\\NuGet.Config"
