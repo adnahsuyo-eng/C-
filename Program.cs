@@ -12,13 +12,14 @@
         Console.WriteLine("The number matrix has been initialized");
 
         // Combine the matrix
-        int digit1 = numberMatrix[1,3];
-        int digit2 = numberMatrix[0,0];
-        int digit3 = numberMatrix[1, 4];
+        int passcode1 = numberMatrix[1,3];
+        int passcode2 = numberMatrix[0,0];
+        int passcode3 = numberMatrix[1, 4];
 
         // Combine digits into a single string
         string combineDigits = $"{digit1}{digit2}{digit3}";
 
                 Console.WriteLine("Your password is: " + combineDigits);
             }
+
         }
